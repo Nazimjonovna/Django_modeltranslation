@@ -13,7 +13,7 @@ Automatic translation on django.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nazimjonovna/Payment.git
+   git clone https://github.com/Nazimjonovna/Django_modeltranslation.git
 
 2. Install libs
     ```bash
